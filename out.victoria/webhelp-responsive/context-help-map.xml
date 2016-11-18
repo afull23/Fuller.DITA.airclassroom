@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="intro" path="c-about-us.html"/>
+   <appContext helpID="rules" path="t-classroom-rules.html"/>
+   <appContext helpID="login" path="t-login.html"/>
+   <appContext helpID="task_wsp_tfy_yx" path="t-projector.html"/>
+   <appContext helpID="task_vd2_1qy_yx" path="t-document-camera.html"/>
+   <appContext helpID="task_ev2_qzz_yx" path="t-photoshop.html"/>
+   <appContext helpID="task_g51_g41_zx" path="t-windows.html"/>
+   <appContext helpID="task_dqb_b42_zx" path="t-emergency.html"/>
+   <appContext helpID="concept_rjx_lm1_zx" path="c-contact.html"/>
+   <appContext helpID="concept_xfh_xlz_yx" path="c-refund.html"/>
+   <appContext helpID="troubleshooting" path="tr-app-troubleshooting.html"/>
+   <appContext helpID="trouble_w5n_kx1_zx" path="tr-class-troubleshooting.html"/>
+</map>
