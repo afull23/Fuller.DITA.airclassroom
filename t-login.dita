@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="login">
+    <title>How To Log On to the Computers In Class</title>
+    <taskbody>
+        <context>This task will teach you the basics about logging into the provided Macintosh
+            computers. Typically these are available for use to Virginia Tech students only, but
+            AirClassroom has provided you with a default login to use across all computers.<p>Across
+                the room, there are about 25 computers available to you, the user. </p><p><xref href="t-classroom-rules.dita" type="topic"/>Please see
+                Classroom Rules Page for best practices with regard to the machines. <fig
+                    id="fig_ltq_h1y_yx">
+                    <title>Figure 1: iMac Computer</title>
+                    <image href="apple_mk142ll_a_21_5_imac_late_2015_1190344.jpg" width="350"
+                        height="250" id="image_mtq_h1y_yx"/>
+                </fig></p></context>
+        <steps>
+            <step>
+                <cmd>The Figure above shows the mac computers that you will be using. <b>Press</b>
+                    any key to illuminate the lock screen.</cmd>
+            </step>
+            <step>
+                <cmd>Observe the whiteboard at the front of the classroom</cmd>
+            </step>
+            <step>
+                <cmd>To ensure privacy, the username and password will be written down on the
+                    whiteboard for each individual class before you enter.  These are the values
+                    that you will enter in to the computer to unlock them</cmd>
+                <info audience="lamar">In the event that all of the users are Virginia Tech students for the game night, please let them
+                    know they should use their PID and password (the same login that they use for
+                    canvas.)</info>
+                <info audience="luke">If the participants at the hackathon are Virginia Tech students, please let them know that they should use their PID and password (the same login used for canvas.)</info>
+            </step>
+            <step>
+                <cmd>The lock screen will have two entry boxes in white, one that says PID and one
+                    that says password. See Figure 2 for details</cmd>
+                <info>
+                    <fig id="fig_s3l_sdy_yx">
+                        <title>Figure 2: iMac Lock Screen</title>
+                        <image
+                            href="How%20To%20Hide%20User%20Accounts%20From%20The%20Log-In%20Screen%20In%20OS%20X_8.jpg"
+                            width="350" height="250" id="image_t3l_sdy_yx"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter both values, and press the Enter key</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vd2_1qy_yx">
+    <title>How To Use the Document Camera</title>
+    <taskbody>
+        <context>This task will teach you how to use the Document Camera that is included in the
+            complimentary classroom package.<p>The document camera functions as a projector for
+                physical documents such as books, papers or journal articles. If you cannot find the
+                article online, but want to show the entire class, this is the tool to
+                use.</p><p>The Camera looks something like the figure below, and is positioned at
+                the front of the classroom on the desk.</p><p/>Please see Classroom Rules Page for
+            best practices with regard to the machines.  <xref href="t-projector.dita" type="topic"/><p/><p>
+                <fig id="fig_lsv_nwy_yx">
+                    <title>Figure 4: Document Camera</title>
+                    <image href="1274383021-Elmo_P30.jpg" width="350" height="250"
+                        id="image_msv_nwy_yx"/>
+                </fig>
+            </p></context>
+        <steps>
+            <step>
+                <cmd><b>Press</b> the power button on the base of the camera</cmd>
+            </step>
+            <step>
+                <cmd><b>Press</b> the camera button on the tablet that you used to turn on the
+                    projector</cmd>
+            </step>
+            <step>
+                <cmd><b>Lay</b> the document flat on the base of the document camera, and be sure
+                    that it is right side up</cmd>
+            </step>
+            <step>
+                <cmd><b>Observe </b>the screen behind you, and adjust brightness if necessary</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

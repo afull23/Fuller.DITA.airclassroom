@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="troubleshooting">
+  <title>In-App Troubleshooting </title>
+  <troublebody>
+    <condition>
+      <p>Usage Within the Mobile App</p>
+      <p/>
+    </condition>
+    <troubleSolution audience="beatrix">
+      <cause id="cause_s2w_3n2_zx">
+        <title>RESERVATIONS</title>
+        <p>The app will not allow me to reserve the specific time that I want.</p>
+      </cause>
+      <remedy id="remedy_t2w_3n2_zx">
+        <steps-unordered id="steps-unordered_u2w_3n2_zx">
+          <step>
+            <cmd>If you are unable to reserve a time, it is likely because someone else has already
+              reserved that specific time. Our system has a built in calendar that has times
+              availible listed, so please see that list for the next available time.</cmd>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+    <troubleSolution><cause><title>REGISTRATION</title>
+        <p>The app will not allow me to register when I enter my account creation information.</p></cause>
+      <remedy><steps-unordered>
+        <step>
+            <cmd>The service does not allow you to register if you are below the age of 19, or do
+              not have an attached and reviewed resume, you will be prevented from
+              registering.</cmd>
+            <info audience="victoria">This is likely taking place because you had one of your
+              students sign up for the class instead of siging up yourself, no shortcuts! </info>
+          </step>
+      </steps-unordered></remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

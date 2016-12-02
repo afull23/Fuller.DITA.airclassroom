@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="intro">
+ <title>AirClassroom: The All-In-One Classroom Rental Service App</title>
+ <shortdesc>AirClassroom seeks to pair clients across all disciplines with the space necessary for
+  their endeavors. </shortdesc>
+ <conbody>
+  <p><b>About Us:</b>
+  </p>
+  <p>AirClassroom was founded in 2016 by Dr. Carlos Evia and his Creating User Documentation class
+   at Virginia Tech in Blacksburg, VA. AirClassroom is a reputable resource for booking classroom
+   spaces for a muliplicity of situations.  </p>
+  <p>Whether you need the space for a group meeting, or a time of instruction, AirClassroom is the
+   premiere source for pairing you with your perfect classroom from your home computer or on the go
+   using our mobile app.</p>
+  <p>Currently, we have Shanks 360 and 180 available for rent, but we will be expanding our
+   available rooms in the very near future.</p>
+  <p>"Shanks Hall is named for David Carey Shanks Jr., commandant of cadets from 1895 to 1898.
+   Shanks saw service in the Philippine Insurrection and commanded Port Hoboken, N.J., and the 16th
+   Infantry Division at Camp Kearny, Calif., during World War I. The decorated major general was a
+   pallbearer for the Unknown Soldier of World War I and President Warren G. Harding. He wrote a
+   book on management of the American soldier."</p>
+  <p>"Composed of an old section, known as Barracks No. 4 (completed in 1902), and a newer section
+   (finished in 1958), Shanks Hall is situated on the site of Science Hall (Barracks No. 7). Shanks
+   housed 320 men until it was converted to house 302 women in 1970. It was converted to academic
+   office space in the 1990s. The latest remodel and small addition was completed in 2001." </p>
+  <p><xref href="https://www.vt.edu/about/buildings/shanks-hall.html" format="html" scope="external"
+   /></p>
+ </conbody>
+</concept>

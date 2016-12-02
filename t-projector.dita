@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wsp_tfy_yx">
+    <title>How To Use the Epson PowerLite Pro G5650W Projector</title>
+    <taskbody>
+        <context>This task will teach you how to deploy and utilize the large projector screen at
+            the front of the classroom.<p>
+                <fig id="fig_qsl_qmy_yx">
+                    <title>Figure 3: Projector Interface</title>
+                    <image href="wlh_335_3.jpg" width="350" height="250" id="image_rsl_qmy_yx"/>
+                </fig>
+            </p><p>Pictured above is the tablet interface that you will use to project your
+                information, whetever that may be. The power for the projector will be left
+            on.</p></context>
+        <steps>
+            <step>
+                <cmd><b>Plug</b> in the device that will be projected using one of the provided
+                    cords (likely HDMI)</cmd>
+            </step>
+            <step>
+                <cmd><b>Select</b>the HDMI setting on the tablet from the list of availible
+                    options</cmd>
+            </step>
+            <step>
+                <cmd><b>Observe</b>the sound setting at the bottom right of the interface, and make
+                    sure that the sound is turned to an appropriate level</cmd>
+                <info audience="beatrix">Volume only goes to a certain decibel level on the projector, if any of the
+                    residents need additional hearing aid equipment, that must be provided by
+                    you.</info>
+            </step>
+            <step>
+                <cmd><b>Look</b> up to the projector, and be sure that the screen is projecting
+                    properly</cmd>
+                <info audience="lamar">For gaming, there may be a slight delay in playback if a projector is used. We
+                    advise that you bring your own high quality HDMI if you are worried about
+                    speeds.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

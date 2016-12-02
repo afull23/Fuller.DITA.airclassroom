@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ev2_qzz_yx">
+    <title>How To Open Adobe Photoshop</title>
+    <taskbody>
+        <context audience="victoria">This task will teach you how to locate, open, and employ Adobe
+            Photoshop. This classroom, as well as many others, have the luxury of Adobe Suite
+            Access, and you are welcome to use this feature while you are using the classroom. <p>We
+                understand that your students will be making a timeline within the application, so
+                we wanted to provide you with some resources to accommodate that.
+                    </p><p><b>PHOTOSHOP TIP LINKS:</b></p><p><xref
+                    href="http://www.diyphotography.net/12-essential-photoshop-skills-every-photographer-know-video/"
+                    format="html" scope="external"/><b> </b></p><p><xref
+                    href="https://www.youtube.com/watch?v=aqD851MIWVo" format="html"
+                    scope="external"/></p><p/><p>Opening the Application:</p></context>
+        <steps>
+            <step>
+                <cmd>
+                    <b>Press</b> the small magnifying glass icon directly next to the date and time
+                    at the top of the screen in the right hand corner</cmd>
+            </step>
+            <step>
+                <cmd><b>Type</b> in the word "photoshop" to the translucent search bar that
+                    appears</cmd>
+            </step>
+            <step>
+                <cmd><b>Press</b> enter, and the application will open automatically</cmd>
+                <info>The Application Icon is also on the bottom of the screen, the image of the
+                    icon is below.<fig id="fig_udk_t21_zx">
+                        <title>Figure 5: Photoshop Logo</title>
+                        <image href="photo.png" id="image_vdk_t21_zx"/>
+                    </fig></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

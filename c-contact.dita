@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_rjx_lm1_zx">
+ <title>Contact Page</title>
+ <shortdesc>We understand that with services like ours, there will likely be a number of questions
+  both prior to and during the time in the classroom. If you need to contact us, we have a few
+  dedicated phone numbers and emails through which our team can be reached.</shortdesc>
+ <conbody>
+  <p/>
+  <p><b><i>Human Resources</i> Email: AirClassroomHR@vt.edu<option>// Phone:
+    540-611-6161</option></b></p>
+  <p/>
+  <p><b><i>Support</i> Email: AirClassroomSupport@vt.edu // Phone: 540-881-8561</b></p>
+  <p/>
+  <p><b><i>Technical Assistance</i></b><b> Email: AirClassroomTech@vt.edu // Phone:
+   540-656-1111</b></p>
+  <p/>
+  <p><b><i>Payments</i> Email: AirClassroomMoney@vt.edu // Phone: 540-552-9923</b></p>
+ </conbody>
+</concept>

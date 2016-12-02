@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="rules">
+    <title>Classroom Usage Rules</title>
+    <shortdesc>We have high standards for our classrooms. They are filled with innovative
+        technology, and are spaces that we hope to be kept in pristine condition. We hope that you
+        will see these rules as constructive and helpful in your time in the classroom.</shortdesc>
+    <taskbody>
+     
+        <steps>
+            <step>
+                <cmd>Please do not bring food or drink into the classroom</cmd>
+                <info audience="lamar">I know gamer fuel is often necessary for effective gaming, but please
+                    consume your monster and five hour energy before entering the classroom.</info>
+                <info audience="beatrix">If any of the residents need water or another beverage for medical
+                    reasons, please let us know and we will absolutely accommodate that need.</info>
+            </step>
+            <step>
+                <cmd>Please handle the computers with care both physically and internally</cmd>
+                <info audience="victoria">Horseplay is strictly prohibited, please make sure that your students are
+                    careful with the computers.</info>
+                <info audience="luke">We understand that hackathons will likely require a number of programming
+                    downloads, please be sure that any programs downloaded from the internet are
+                    safe and secure, and will not harm the internals of the computer.</info>
+            </step>
+            <step>
+                <cmd>Be sure to keep noise levels down while other classes are in session within the
+                    building</cmd>
+                <info audience="victoria">Seeing as though you are bringing your class into the building, we anticipate
+                    that you will be using the classroom during regular school levels, please
+                    refrain from any activities that may disturb nearby classes.</info>
+                <info audience="lamar">Gaming events can get rowdy, and some noise is absolutely fine, but if things
+                    get too loud it may disturb other classrooms and their activities. We recommend
+                    making your reservation for after 5 o clock, or even the weekend if
+                    possible.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

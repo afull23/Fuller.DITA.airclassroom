@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble_w5n_kx1_zx">
+  <title>In-Class Troubleshooting</title>
+  <troublebody>
+    <condition>
+      <p>Possible Issues In-Class</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <title>Class Occupied</title>
+        <p>We reserved the class, but when we entered, there was another class taking place.</p>
+      </cause>
+      <remedy>
+        <steps-unordered>
+          <step>
+            <cmd>First, be sure that the perty currently occupying the room is not simply running
+              over on their appointment time. This will often be the case when there is a slight
+              overlap on reservation times. </cmd>
+          </step>
+          <step>
+            <cmd>The app is in its initial development stages. This means that sometimes the system
+              will have flaws, or not update in time to notify the user. In the event that you have
+              reserved a time in the classroom, and someone else has the room occupied, the existing
+              party takes precedent. If you are the party is not able to use the room, please
+              contact our Support team. Their information can be found in the "Contact" page of our
+              site.</cmd>
+            <info><xref href="c-contact.dita"/></info>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

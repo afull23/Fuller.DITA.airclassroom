@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dqb_b42_zx">
+    <title>In-Class Emergency Protocol</title>
+    <taskbody>
+        <context>The University uses an integrated system called VT alerts for emergency
+                situations.<p>VT Alerts is Virginia Tech's Emergency Notification System. In a
+                campus emergency, Virginia Tech will use several information delivery methods to
+                reach you because, at any given time, one form of communications might be better to
+                reach you than another. VT Alerts will deliver messages using some or all of the
+                following channels:</p><ul id="ul_u54_542_zx">
+                <li>The Virginia Tech homepage (www.vt.edu)</li>
+                <li>Broadcast e-mails to all vt.edu accounts *</li>
+                <li>Electronic message boards in classrooms</li>
+                <li>The weather/emergency hotline (540-231-6668)</li>
+                <li><b>Campus sirens and loudspeakers</b></li>
+                <li>VT <i>Phone</i> Alerts </li>
+                <li>VT <i>Desktop</i> Alerts</li>
+            </ul></context>
+        <steps>
+            <step>
+                <cmd>In case of emergency, immediately look to the clock ticker on the wall above
+                    the room's front door. See Figure 8 for image of the ticker. </cmd>
+                <info>
+                    <fig id="fig_rjt_mp2_zx">
+                        <title>Figure 8: Emergency Ticker/Clock</title>
+                        <image href="IMG_8833.JPG" width="250" height="450" id="image_nj3_yp2_zx"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd><b>Sirens</b> will be sounding, and the ticker will indicate the type of
+                    emergency, and the proper action to take at the moment.</cmd>
+            </step>
+            <step>
+                <cmd><b>Remain</b> calm</cmd>
+            </step>
+            <step>
+                <cmd><b>Notify</b> loved ones of your safety once the emergency protocol has
+                    finished</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

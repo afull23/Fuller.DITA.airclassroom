@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_g51_g41_zx">
+    <title>How To Run Windows on the Provided Mac Computers</title>
+    <taskbody>
+        <context>All of the Macintosh computers in the room also come with the capability to run
+            Windows OS as well as the standard Mac OS.  Many programs and functionalities are run
+            better on Windows, so if you need to access that operating system, you are free to do
+            so.<p/></context>
+        <steps>
+            <step>
+                <cmd><b>Boot</b> up the computer by clicking any key to cancel "Sleep Mode"</cmd>
+            </step>
+            <step>
+                <cmd>You will be presented with a screen that gives you two "boot" options, if you
+                    wish to choose Windows, <b>click</b> the option entitled "Bootcamp" on the right
+                    side of the screen with your mouse See Figure 7 for Image of screen.</cmd>
+                <info>The hard drive on the left is Macintosh HD, if you wish to boot Mac OS like
+                    normal, select this option.<fig id="fig_cpk_vm2_zx">
+                        <title>Figure 6: Bootcamp Options</title>
+                        <image href="IMG_8832.JPG" width="350" height="250" id="image_dpk_vm2_zx"/>
+                    </fig></info>
+            </step>
+            <step>
+                <cmd audience="beatrix"><b>Type</b> in the login information provided on the
+                    whiteboard in the front of the room</cmd>
+            </step>
+            <step>
+                <cmd audience="victoria"><b>Type</b> in the login information provided on the whiteboard in the front of
+                    the room</cmd>
+            </step>
+            <step>
+                <cmd audience="lamar"><b>Type</b> in your Virginia Tech login information</cmd>
+            </step>
+            <step>
+                <cmd audience="luke"><b>Type</b> in your Virginia Tech login information</cmd>
+            </step>
+            <step>
+                <cmd><b>Begin</b> working within your chosen operating system</cmd>
+                <steptroubleshooting>If you have any issues logging on, it may be because you have
+                    attempted login too many times. If this occurs, look to the rear of the physical
+                    computer screen. On the back, in the bottom right hand corner of the screen,
+                    there is a small, round physical power button. Hold this button down, and the
+                    computer will restart. See Figure 6 for image of the button.<p>
+                        <fig id="fig_sfj_mm2_zx">
+                            <title>Figure 7: iMac Power Button</title>
+                            <image href="2011-05-10_213935_1600-imac27i7-29_back.jpg"
+                                id="image_tfj_mm2_zx"/>
+                        </fig>
+                    </p></steptroubleshooting>
+            </step>
+        </steps>
+    </taskbody>
+</task>

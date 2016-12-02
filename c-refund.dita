@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xfh_xlz_yx">
+ <title>AirClassroom Guest Refund Policy</title>
+ <shortdesc>Here at AirClassroom, we hope that all of our guests will be able to fulfill their
+  scheduled reservations. We do understand, however, that sometimes things come up, and we will be
+  flexible with your adjustment needs.</shortdesc>
+ <conbody>
+  <p>What to do when you can't make it:</p>
+  <p>- <b>The App has a built-in "swap" function where you can ineract with other users, and request
+    to switch time slots with them</b></p>
+  <p>-<b> This feature is entirely user-based, so we are essentially asking you to work the kinks
+    out amongst yourselves</b></p>
+  <p>- <b>Our official policy is that you may receive a full refund if the request to cancel is made
+    48 hours in advance</b><sub>For every 12 hour period after, the account owner will receive a 10%
+    reduction from their refund up to 50%.</sub></p>
+  <p audience="luke">- <b>As an administrator, you have 5 complimentary reservations in
+    Shanks</b><sub>After 5 have been used, your reservations will be deducted from your salary
+    unless otherwise indicated</sub></p>
+  <p> </p>
+ </conbody>
+</concept>
